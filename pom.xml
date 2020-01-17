@@ -7,7 +7,7 @@
   <groupId>com.wipro</groupId>
   <artifactId>rsa</artifactId>
   <version>v1.0</version>
-  <package>war</package>
+  <package>jar</package>
 
   <name>rsa</name>
   <!-- FIXME change it to the project's website -->
